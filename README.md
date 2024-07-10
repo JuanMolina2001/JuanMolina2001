@@ -1,3 +1,3 @@
-<h1 class='red'>
-  hola
-</h1>
+<script>
+  console.log('holamundo')
+</script>
